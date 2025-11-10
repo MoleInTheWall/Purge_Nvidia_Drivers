@@ -1,14 +1,16 @@
+# Nvidia Driver Cleaner Purger
+
 This is a repo for fully clearing NVIDIA drivers from a system as well as fixing some common issues encountered with NVIDIA drivers. This repo was made from mergeing fixs to nv issues that have been tested to actully work over about 12 years by us directly. Possible Windows And OSX support in the future, as the issues are present on each platforum and share causes about 75%.
 
 -No AI Code!
 
 -Xorg Fixs
 
--Wayland Fixs
+-Wayland Fixs (comeing soon)
 
--10 Bit Color Support
+-10 Bit Color Support (comeing soon)
 
-Important Notes For Use:
+# Important Notes For Use:
 
 -" nvidia-dkms-***.***.**-0ubuntu0.**.**.*# " and " nvidia-dkms-***-open " Should be changed to match your OS version and NVIDIA Driver version you wish to install otherwise will install newest version avable in system repos.
 
